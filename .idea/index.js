@@ -1,5 +1,4 @@
 
-console.log(100500);
 console.log("s;ghdfdh");
 document.write("jfsdklgj");
 products2 = [
