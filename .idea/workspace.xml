@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8210bfc0-d7ee-40ae-9516-001258d35bb7" name="Changes" comment="add html">
-      <change afterPath="$PROJECT_DIR$/testGit/test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testGit/testJS.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/index.js" beforeDir="false" />
+    <list default="true" id="8210bfc0-d7ee-40ae-9516-001258d35bb7" name="Changes" comment="add folder">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testGit/test1.html" beforeDir="false" afterPath="$PROJECT_DIR$/testGit/test1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testGit/testJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/testGit/testJS.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,9 +43,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "Node.js.testJS.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "js.last.introduce.type": "LET",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/viy/JS_2024",
     "node.js.detected.package.eslint": "true",
@@ -56,11 +58,34 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS_2024/lessons/lesson1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JS_2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JS_2024" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -75,7 +100,10 @@
       <workItem from="1708177564101" duration="2337000" />
       <workItem from="1708274889668" duration="5276000" />
       <workItem from="1708365908365" duration="1240000" />
-      <workItem from="1708367786180" duration="4632000" />
+      <workItem from="1708367786180" duration="6794000" />
+      <workItem from="1708462127469" duration="1254000" />
+      <workItem from="1708466459482" duration="58000" />
+      <workItem from="1708536494721" duration="7640000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -109,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708368650208</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add folder">
+      <option name="closed" value="true" />
+      <created>1708372757786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708372757786</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +178,8 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="add" />
     <MESSAGE value="add html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add html" />
+    <MESSAGE value="add folder testGit" />
+    <MESSAGE value="add folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add folder" />
   </component>
 </project>
