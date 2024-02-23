@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8210bfc0-d7ee-40ae-9516-001258d35bb7" name="Changes" comment="lesson1 JS">
-      <change afterPath="$PROJECT_DIR$/konsultations/konsLes1/konsult_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konsultations/konsLes1/main.js" afterDir="false" />
+    <list default="true" id="8210bfc0-d7ee-40ae-9516-001258d35bb7" name="Changes" comment="Add hw1">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson2/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/konsultations/konsLes1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/konsultations/konsLes1/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,30 +40,30 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.konsult_1.html.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.testJS.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/viy/JS_2024&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "JavaScript Debug.konsult_1.html.executor": "Run",
+    "Node.js.testJS.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "js.last.introduce.type": "LET",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/viy/JS_2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.JavaScript",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS_2024/lessons/lesson1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -110,7 +110,9 @@
       <workItem from="1708466459482" duration="58000" />
       <workItem from="1708536494721" duration="8761000" />
       <workItem from="1708623100680" duration="2916000" />
-      <workItem from="1708628263474" duration="482000" />
+      <workItem from="1708628263474" duration="2226000" />
+      <workItem from="1708630512051" duration="347000" />
+      <workItem from="1708709757019" duration="4601000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -160,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708544260676</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add hw1">
+      <option name="closed" value="true" />
+      <created>1708628798709</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708628798709</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +206,12 @@
     <MESSAGE value="add folder testGit" />
     <MESSAGE value="add folder" />
     <MESSAGE value="lesson1 JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson1 JS" />
+    <MESSAGE value="Add hw1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hw1" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

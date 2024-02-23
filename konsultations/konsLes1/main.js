@@ -15,3 +15,6 @@ let age=+prompt('Enter your name','25');
 console.log(age);
 console.log(`name: ${prm}, age: ${age}`);
 console.log(typeof age);
+
+console.log('age:',age);
+
