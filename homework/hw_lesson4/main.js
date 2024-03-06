@@ -1,13 +1,13 @@
 // - створити функцію яка обчислює та повертає площу прямокутника зі сторонами а і б
-function sqrt(a,b){
-    return a*b
-}
-console.log(sqrt(4,5));
-
-let sqrt=((a,b)=>a*b)
-
-console.log(sqrt(4,5));
-console.log(sqrt(10,5));
+// function sqrt(a,b){
+//     return a*b
+// }
+// console.log(sqrt(4,5));
+//
+// let sqrt=((a,b)=>a*b)
+//
+// console.log(sqrt(4,5));
+// console.log(sqrt(10,5));
 
 // - створити функцію яка обчислює та повертає площу кола з радіусом r
 function areaOfCircle (r){
