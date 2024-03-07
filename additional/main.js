@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+<style>
+    .target {
+    width: 200px;
+    height: 200px;
+
+
+    animation-name: foobar;
+    animation-duration: 3s;
+
+    animation-iteration-count: infinite;
+    /*animation-delay: 1s;*/
+    /*animation-direction: alternate-reverse;*/
+    animation-timing-function: linear;
+    /*animation-play-state: paused;*/
+
+}
+
+
+    @keyframes foobar {
+
+    0% {
+        background: red;
+        /*transform: rotate(0);*/
+        transform: scale(1);
+    }
+
+    50% {
+    background: silver;
+    transform: scale(1.5);
+    /*transform: rotate(360deg);*/
+}
+
+    100% {
+    background: red;
+    /*transform: rotate(0);*/
+    transform: scale(1);
+}
+
+
+}

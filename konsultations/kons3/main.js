@@ -49,3 +49,5 @@ let money=[
 for (const moneyElement of money) {
     console.log(moneyElement.currency,moneyElement.value);
 }
+
+/////////////////////////////////////////////////////////////////////
