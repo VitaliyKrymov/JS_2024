@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8210bfc0-d7ee-40ae-9516-001258d35bb7" name="Changes" comment="lesson 7">
-      <change afterPath="$PROJECT_DIR$/additional/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/hw_lesson1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konsultations/kons5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konsultations/kons5/main.js" afterDir="false" />
+    <list default="true" id="8210bfc0-d7ee-40ae-9516-001258d35bb7" name="Changes" comment="cons 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework/hw_lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/hw_lesson1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konsultations/kons3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/konsultations/kons3/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konsultations/kons4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/konsultations/kons4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konsultations/kons4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/konsultations/kons4/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konsultations/kons_loops/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/konsultations/kons_loops/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konsultations/kons_loops/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/konsultations/kons_loops/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/hw_lesson1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework/hw_lesson1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/hw_lesson4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework/hw_lesson4/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +35,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -57,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "js.last.introduce.type": "LET",
+    "js.last.introduce.type": "CONST",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/viy/JS_2024",
     "node.js.detected.package.eslint": "true",
@@ -68,7 +61,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.JavaScript",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -133,7 +126,12 @@
       <workItem from="1709662953529" duration="6459000" />
       <workItem from="1709672863941" duration="1705000" />
       <workItem from="1709746009776" duration="5407000" />
-      <workItem from="1709832945109" duration="7969000" />
+      <workItem from="1709832945109" duration="8256000" />
+      <workItem from="1709878967007" duration="1429000" />
+      <workItem from="1709880920096" duration="760000" />
+      <workItem from="1709977289005" duration="335000" />
+      <workItem from="1710003458277" duration="10295000" />
+      <workItem from="1710098205632" duration="2679000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -271,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709751896264</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="cons 6">
+      <option name="closed" value="true" />
+      <created>1709848484233</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709848484233</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +323,8 @@
     <MESSAGE value="Add lesson 6" />
     <MESSAGE value="hw4" />
     <MESSAGE value="lesson 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 7" />
+    <MESSAGE value="cons 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="cons 6" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
