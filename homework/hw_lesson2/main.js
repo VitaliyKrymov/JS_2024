@@ -1,6 +1,16 @@
 // Масиви та об'єкти:
 // - Створити масив, наповнити його 10 елементами будь-якого типу, вивести кожен елемент в консоль
-
+// let arr=[12,false,'dsfg',NaN,true,undefined,1000,'rfgsdg',0,'geh'];
+// console.log(arr[0]);
+// console.log(arr[1]);
+// console.log(arr[2]);
+// console.log(arr[3]);
+// console.log(arr[4]);
+// console.log(arr[5]);
+// console.log(arr[6]);
+// console.log(arr[7]);
+// console.log(arr[8]);
+// console.log(arr[9]);
 
 //     let arr=[10,'Vasia',NaN,false,25,true,'Time',0,25,'false'];
 // console.log(arr[0]);
@@ -130,13 +140,14 @@ let arrUsers = [
 //     Якщо змінна x не дорівнює нулю, виведіть 'Вірно', інакше виведіть 'Невірно'. Перевірте  скрипт при a, що дорівнює 1, 0, -3
 //
 // let x=10;
-// if(x!=0){console.log('Вірно')}else{console.log('Невірно')};
+// const no='Невірно'
+// if(x!=0){console.log('Вірно')}else{console.log(no)};
 // x=1;
-// if(x!=0){console.log('Вірно')}else{console.log('Невірно')};
+// if(x!=0){console.log('Вірно')}else{console.log(no)};
 // x=-3
-// if(x!=0){console.log('Вірно')}else{console.log('Невірно')};
+// if(x!=0){console.log('Вірно')}else{console.log(no)};
 // x=0
-// if(x!=0){console.log('Вірно')}else{console.log('Невірно')};
+// if(x!=0){console.log('Вірно')}else{console.log(no)};
 
 
 // - Дано змінну time яка рівна числу від 0 до 59. Потрібно написати код, який перевірить, до якої четверті години попадає число
@@ -219,11 +230,11 @@ let arrUsers = [
 //
 //     - є змінна х, яка може прийняти будь-яке значення (стрінг, число, undefined, null  і тд включно). Напишіть код який,
 //         за допомоги  оператора || буде присвоювати змінній х значення "default"  якщо значення змінної х являється falsy (хибноподібні, тобто приводиться до false)
-
-let x='';
-if(!x){x='default'}
-console.log(x);
-
-let asd=0 || 'default';
-console.log(asd);
+//
+// let x='';
+// if(!x){x='default'}
+// console.log(x);
+//
+// let asd=0 || 'default';
+// console.log(asd);
 //
