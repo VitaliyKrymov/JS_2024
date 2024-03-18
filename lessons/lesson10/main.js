@@ -46,12 +46,14 @@ let password2 = form2['password'];
 password2.onmouseover=function (){
     this.type = 'text';
 }
-
-password2.onmouseleave = function () {
+password2.onmouseleave = function (e) {
     this.type = 'password';
+    console.log(e);
 };
 
-form2.onsubmit=function (){
+form2.onsubmit=function (e){
+    e.preventDefault();
+    console.log(e);
 
 }
 
