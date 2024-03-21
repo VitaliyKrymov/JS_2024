@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8210bfc0-d7ee-40ae-9516-001258d35bb7" name="Changes" comment="lesson10">
-      <change afterPath="$PROJECT_DIR$/konsultations/kons10/hw3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konsultations/kons10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/konsultations/kons10/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson10/eventFunctions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson11/main.js" afterDir="false" />
+    <list default="true" id="8210bfc0-d7ee-40ae-9516-001258d35bb7" name="Changes" comment="cons10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/lesson10/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson10/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -143,7 +136,7 @@
       <workItem from="1710437608159" duration="6417000" />
       <workItem from="1710527335584" duration="7152000" />
       <workItem from="1710783146944" duration="2118000" />
-      <workItem from="1710785698973" duration="1410000" />
+      <workItem from="1710785698973" duration="2203000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -345,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710533781563</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="cons10">
+      <option name="closed" value="true" />
+      <created>1710788829555</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1710788829555</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +399,8 @@
     <MESSAGE value="add lesson9" />
     <MESSAGE value="cons8" />
     <MESSAGE value="lesson10" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson10" />
+    <MESSAGE value="cons10" />
+    <option name="LAST_COMMIT_MESSAGE" value="cons10" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
